@@ -1,0 +1,50 @@
+h1 {
+    color: teal;
+}
+
+#text {
+    color: royalblue;
+}
+.title {
+    color: teal;
+}
+
+.text1.text2 {
+    color: royalblue;
+}
+
+ul li {
+    color: turquoise;
+}
+
+.item {
+    color:mediumturquoise;
+}
+
+.item2 {
+    color: mediumaquamarine;
+}
+
+.item3 {
+    color: rgb(88, 190, 156);
+}
+
+.text {
+    color: teal;
+}
+
+.item4 {
+    color: turquoise;
+}
+
+.item5 {
+    color: mediumturquoise;
+}
+
+.item6 {
+    color: mediumaquamarine;
+}
+
+.item7 {
+    color: rgb(88, 190, 156);
+}
